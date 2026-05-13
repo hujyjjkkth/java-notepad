@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComicReader</string>
+    <string name="comic_sources">漫画源</string>
+    <string name="chapters">章节</string>
+    <string name="loading">加载中...</string>
+    <string name="error_loading">加载失败</string>
+</resources>
