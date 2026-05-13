@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">漫画阅读器</string>
+    <string name="source_management">漫画源管理</string>
+    <string name="add_source">添加漫画源</string>
+    <string name="source_name">漫画源名称</string>
+    <string name="source_url">漫画源地址</string>
+    <string name="save">保存</string>
+    <string name="chapters">章节列表</string>
+    <string name="pages">漫画页面</string>
+</resources>
